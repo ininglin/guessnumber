@@ -1,4 +1,5 @@
 #1~100隨機猜數字
+#記錄共猜幾次
 
 import random
 r = random.randint(1, 100)
